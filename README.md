@@ -1,1 +1,1 @@
-# get-my-number
+# guess-my-number
