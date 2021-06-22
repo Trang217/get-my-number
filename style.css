@@ -120,3 +120,73 @@ h1{
 .score, .highscore{
     font-size: 2rem;
 }
+
+
+ /* for mobile version  */
+
+ 
+@media only screen and (max-width: 600px) {
+  
+h1{
+ font-size: 2.2rem;
+
+}
+
+.number{
+    
+    font-size: 5rem;
+    width: 10rem;
+    padding: 2rem 0rem;
+    bottom: 0;
+    left: 12%;
+    
+}
+
+.between{
+    font-size: 1rem;
+    top: 3rem;
+    right: 2rem;
+}
+
+.again{
+    font-size: 1rem;
+    top: 2rem;
+    left: 2rem;
+}
+
+.guess{
+    
+    border: 2px solid #eee;
+    font-size: 3rem;
+    padding: 2.5rem;
+    width: 12rem;
+    margin-bottom: 3rem;
+}
+
+.btn {
+  
+  font-size: 2rem;
+  padding: 0.8rem;
+  
+}
+
+
+
+.message {
+  margin-bottom: 2rem;
+  height: 3rem;
+  font-size: 1.5rem;
+}
+
+.laber-score, .label-highscore {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.score, .highscore{
+    font-size: 1.2rem;
+}
+
+
+}
+ 
